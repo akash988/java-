@@ -1,2 +1,2 @@
 # java-
-java basics collection
+java basic collection
